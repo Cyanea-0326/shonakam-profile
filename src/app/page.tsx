@@ -10,7 +10,7 @@ export default function Home() {
           <p>--showcase</p>
           <a className='hover:text-green-500' href='https://neighbor-cat-cyanea-0326.vercel.app/home'>::NEIGHBOR-CAT</a>
           <br/>
-          <a className='hover:text-green-500' href='https://erc-6551-dynamic-pricing-market.vercel.app/DPMarket/Buy'>::DPmarket (requires browser wallet)</a>
+          <a className='hover:text-green-500' href='https://erc-6551-dynamic-pricing-market.vercel.app/DPMarket/Buy'>::DPmarket (requires browser wallet)</a><a className='hover:text-blue-500' href='https://docs.google.com/presentation/d/1ygR1_VGnG2-VOO4FazR4S0lFayPY_kBpDNu91nCsAho/edit?usp=sharing'>::Pitch Deck</a>
           <br/>
           <br/>
         </div>
