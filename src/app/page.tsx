@@ -12,6 +12,8 @@ export default function Home() {
           <br/>
           <a className='hover:text-green-500' href='https://erc-6551-dynamic-pricing-market.vercel.app/DPMarket/Buy'>::DPmarket (requires browser wallet)</a><a className='hover:text-blue-500' href='https://docs.google.com/presentation/d/1ygR1_VGnG2-VOO4FazR4S0lFayPY_kBpDNu91nCsAho/edit?usp=sharing'>::Pitch Deck</a>
           <br/>
+          <a className='hover:text-green-500' href='https://github.com/Cyanea-0326/LINE-weather_app'>::LINE-weather_report</a>
+          <br/>
           <br/>
         </div>
         <div>
