@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="bg-gray-900 flex min-h-screen flex-col items-center justify-between p-24">
       <div className='text-white'>
-        <p>Hello world!</p>
+        <p>Hi, I'm shonakam!</p>
         <br/>
         <div>
           <p>--showcase</p>
